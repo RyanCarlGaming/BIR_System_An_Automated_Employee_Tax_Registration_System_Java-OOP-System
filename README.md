@@ -92,3 +92,7 @@ The **Report** panel shows:
 - **Pending Applications** — count of taxpayers with incomplete data (no TIN assigned)
 
 Click **Refresh Report** to update counts.
+
+---
+
+*This project is for our Java Object-Oriented Programming final requirement at the Polytechnic University of the Philippines.*
